@@ -27,17 +27,19 @@ Usage
 
 Clone the repository:
 
-git clone https://github.com/yourusername/socialnetwork.git
+git clone https://github.com/momotsepe/socialnetwork.git
 
 
 Install dependencies:
 
-pip install PyQt6
+-pip install PyQt6
 
 
 Run the application:
 
-python main.py
+-python main.py
+
+
 
 Future Improvements
 
